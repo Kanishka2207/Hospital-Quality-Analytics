@@ -34,7 +34,7 @@ Built entirely in **Python (Google Colab)** — fully reproducible, no local set
 
 ### Before (Prototype Design)
 This initial prototype guided the final Tableau dashboard layout.  
-
+[https://github.com/Kanishka2207/Hospital-Quality-Analytics/blob/c5487bf802a0da23f9d8d2e0bceffb9cd2399555/Prototype.png]
 
 ### After (Published Dashboard)
 Final dashboard published on Tableau Public:  

@@ -35,7 +35,6 @@ Built entirely in **Python (Google Colab)** — fully reproducible, no local set
 ### Before (Prototype Design)
 This initial prototype guided the final Tableau dashboard layout.  
 
-![Prototype Dashboard](sample_visuals/prototype_layout.png)
 
 ### After (Published Dashboard)
 Final dashboard published on Tableau Public:  

@@ -30,3 +30,33 @@ Built entirely in **Python (Google Colab)** — fully reproducible, no local set
 - **Efficiency gap:** top 25% hospitals spent 12% less per beneficiary while keeping mortality 15% lower.  
 - Predictive model reached **AUC = 0.75**, identifying 3 of 4 high-performing hospitals.
 
+##Dashboard Visuals
+
+### Before (Prototype Design)
+This initial prototype guided the final Tableau dashboard layout.  
+
+![Prototype Dashboard](sample_visuals/prototype_layout.png)
+
+### After (Published Dashboard)
+Final dashboard published on Tableau Public:  
+[https://public.tableau.com/authoring/Hospital-Quality-Analytics/Dashboard1#1](https://public.tableau.com/authoring/Hospital-Quality-Analytics/Dashboard1#1)
+
+
+## Tableau Sheets Overview
+
+| Sheet | Description |
+|-------|--------------|
+| **KPI Summary** | Displays total hospitals, avg proxy stars, mortality, and MSPB. |
+| **Map** | Filled map of states colored by average proxy stars. |
+| **Scatter Plot** | Mortality vs Spending (colored by Proxy Stars). |
+| **Bar Chart** | Top 10 states by average Proxy Stars. |
+| **Detail Table** | Hospital-level breakdown with filters for State, Type, Ownership. |
+
+---
+
+## Author
+**Kanishka Patel**  
+Data & Analytics Professional  
+
+
+

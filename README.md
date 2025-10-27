@@ -30,8 +30,6 @@ Built entirely in **Python (Google Colab)** — fully reproducible, no local set
 - **Efficiency gap:** top 25% hospitals spent 12% less per beneficiary while keeping mortality 15% lower.  
 - Predictive model reached **AUC = 0.75**, identifying 3 of 4 high-performing hospitals.
 
-##Dashboard Visuals
-
 ### Before (Prototype Design)
 This initial prototype guided the final Tableau dashboard layout.  
 [https://github.com/Kanishka2207/Hospital-Quality-Analytics/blob/c5487bf802a0da23f9d8d2e0bceffb9cd2399555/Prototype.png]
